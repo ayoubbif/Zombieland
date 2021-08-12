@@ -43,7 +43,8 @@ This is an FPS Zombie themed game built with Unity. The goal of the game is to s
 
 ![prototype](https://user-images.githubusercontent.com/77907697/129156726-b08e9635-793b-4d03-b018-1918fb2f3920.jpg)
 
-
+## Unity Version
+ Unity 2020.3.13
 
 
 
